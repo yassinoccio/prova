@@ -1,1 +1,15 @@
 
+p{
+	color: red;
+	background: black;
+}
+
+h1{
+	color:black;
+	background-image:url("../immagini/foto.jpg")
+}
+h2{
+	background-image:url("../immagini/foto.jpg")
+}
+
+
